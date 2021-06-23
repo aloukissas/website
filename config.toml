@@ -1,0 +1,46 @@
+baseURL = "http://localhost"
+languageCode = "en-us"
+paginate = 10
+theme = "hello-friend-ng"
+
+[params]
+dateform = "Jan 2, 2006"
+dateformNum = "2006-01-02"
+dateformNumTime = "2006-01-02 15:04"
+dateformShort = "Jan 2"
+defaultTheme = "dark"
+
+homeSubtitle = "Engineer, dad, analog car fan, home chef"
+
+# Metadata mostly used in document's head
+description = "Personal website and blog for Alex Loukissas"
+images = [""]
+keywords = "homepage, blog"
+
+[taxonomies]
+category = "blog"
+series = "series"
+tag = "tags"
+
+[permalinks]
+posts = "/posts/:year/:month/:title/"
+
+[languages]
+[languages.en]
+copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+readOtherPosts = "Read other posts"
+title = "Alex Loukissas"
+
+[languages.en.params.logo]
+logoHomeLink = "/"
+logoText = "cd ~"
+
+[languages.en.menu]
+[[languages.en.menu.main]]
+identifier = "about"
+name = "About"
+url = "about/"
+[[languages.en.menu.main]]
+identifier = "posts"
+name = "Posts"
+url = "posts/"
