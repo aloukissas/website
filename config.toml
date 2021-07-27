@@ -1,21 +1,37 @@
-baseURL = "http://localhost"
+baseURL = "https://alexloukissas.com"
+title = "Alex Loukissas"
 languageCode = "en-us"
 paginate = 10
 theme = "hello-friend-ng"
+enableRobotsTXT = true
 
 [params]
 dateform = "Jan 2, 2006"
 dateformNum = "2006-01-02"
 dateformNumTime = "2006-01-02 15:04"
 dateformShort = "Jan 2"
-defaultTheme = "dark"
-
-homeSubtitle = "Engineer, dad, analog car fan, home chef"
-
-# Metadata mostly used in document's head
+defaultTheme = "light"
+homeSubtitle = "Engineer, startup nerd, analog car fan, home chef"
 description = "Personal website and blog for Alex Loukissas"
 images = [""]
 keywords = "homepage, blog"
+
+[params.logo]
+logoHomeLink = "/"
+logoText = "cd /home/alex"
+logoCursorColor = "#10B981"
+
+[[params.social]]
+name = "twitter"
+url = "https://twitter.com/aloukissas"
+
+[[params.social]]
+name = "github"
+url = "https://github.com/aloukissas"
+
+[[params.social]]
+name = "instagram"
+url = "https://www.instagram.com/futureartist"
 
 [taxonomies]
 category = "blog"
@@ -23,24 +39,19 @@ series = "series"
 tag = "tags"
 
 [permalinks]
-posts = "/posts/:year/:month/:title/"
+posts = "/posts/:year/:month/:title"
 
-[languages]
-[languages.en]
-copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-readOtherPosts = "Read other posts"
-title = "Alex Loukissas"
+[author]
+name = "Alex Loukissas"
 
-[languages.en.params.logo]
-logoHomeLink = "/"
-logoText = "cd ~"
+[menu]
 
-[languages.en.menu]
-[[languages.en.menu.main]]
+[[menu.main]]
 identifier = "about"
 name = "About"
-url = "about/"
-[[languages.en.menu.main]]
+url = "/about"
+
+[[menu.main]]
 identifier = "posts"
 name = "Posts"
-url = "posts/"
+url = "/posts"
