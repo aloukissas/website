@@ -2,7 +2,7 @@ baseURL = "/"
 title = "Alex Loukissas"
 languageCode = "en-us"
 paginate = 5
-theme = "hello-friend-ng"
+theme = "hugo-theme-hello-friend-ng"
 enableRobotsTXT = true
 
 [params]
