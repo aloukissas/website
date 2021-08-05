@@ -1,10 +1,10 @@
 baseURL = "/"
-title = "Alex Loukissas"
+enableRobotsTXT = true
+googleAnalytics = "282009340"
 languageCode = "en-us"
 paginate = 5
 theme = "hugo-theme-hello-friend-ng"
-enableRobotsTXT = true
-googleAnalytics = "UA-149595304-1"
+title = "Alex Loukissas"
 
 [params]
 dateform = "Jan 2, 2006"
@@ -12,16 +12,16 @@ dateformNum = "2006-01-02"
 dateformNumTime = "2006-01-02 15:04"
 dateformShort = "Jan 2"
 defaultTheme = "light"
-homeSubtitle = "Engineer, startup nerd, analog car fan, home chef"
 description = "Personal website and blog for Alex Loukissas"
+homeSubtitle = "Engineer, startup nerd, analog car fan, home chef"
 images = [""]
 keywords = "homepage, blog"
 showReadingTime = true
 
 [params.logo]
+logoCursorColor = "#10B981"
 logoHomeLink = "/"
 logoText = "cd /home/alex"
-logoCursorColor = "#10B981"
 
 [[params.social]]
 name = "twitter"
