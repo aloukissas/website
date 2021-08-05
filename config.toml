@@ -1,7 +1,7 @@
-baseURL = "https://alexloukissas.com"
+baseURL = "/"
 title = "Alex Loukissas"
 languageCode = "en-us"
-paginate = 10
+paginate = 5
 theme = "hello-friend-ng"
 enableRobotsTXT = true
 
@@ -15,6 +15,7 @@ homeSubtitle = "Engineer, startup nerd, analog car fan, home chef"
 description = "Personal website and blog for Alex Loukissas"
 images = [""]
 keywords = "homepage, blog"
+showReadingTime = true
 
 [params.logo]
 logoHomeLink = "/"
