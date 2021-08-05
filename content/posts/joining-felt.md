@@ -2,6 +2,7 @@
 title: "Joining Felt"
 date: "2021-08-05"
 draft: false
+description: "Why I decided to join Felt and my personal framework to evaluate companies."
 tags:
   - personal
   - career
@@ -34,7 +35,7 @@ I call this framework for evaluating companies **“The four Ps”**, based on i
 
 ### People
 
-First, the most important criterion when joining a team, especially when it’s a small/young one, is the **people**. You need to make sure that your value systems align and that you can both inspire and deeply respect each other. Don’t forget, at the earliest stages of a company you’re building the foundation; any small crack or weak point will only accentuate later. Be aware of any yellow/red flags and explicitly handle them or dismiss them. As Danny Meyer says: [if you’re not aware, you’re nowhere](https://fs.blog/knowledge-project/danny-meyer/).
+First, the most important criterion when joining a team, especially when it’s a small/young one, is the **people**. You need to make sure that your value systems align and that you can both inspire and deeply respect each other. Don’t forget: at the earliest stages of a company you’re building the foundation; any small crack or weak point will only accentuate later. Be aware of any yellow/red flags and explicitly handle them or dismiss them. As Danny Meyer says: [if you’re not aware, you’re nowhere](https://fs.blog/knowledge-project/danny-meyer/).
 
 ### Product
 

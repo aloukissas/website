@@ -34,11 +34,6 @@ url = "https://github.com/aloukissas"
 name = "instagram"
 url = "https://www.instagram.com/futureartist"
 
-[taxonomies]
-category = "blog"
-series = "series"
-tag = "tags"
-
 [permalinks]
 posts = "/posts/:year/:month/:title"
 
