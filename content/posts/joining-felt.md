@@ -4,6 +4,8 @@ description: "Why I decided to join Felt and my personal framework to evaluate c
 date: "2021-08-05"
 draft: false
 cover: img/analuisa-gamboa-0ohjyDUIUq0-unsplash.jpg
+images:
+  - img/analuisa-gamboa-0ohjyDUIUq0-unsplash.jpg
 tags:
   - personal
   - career

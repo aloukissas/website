@@ -4,6 +4,7 @@ languageCode = "en-us"
 paginate = 5
 theme = "hugo-theme-hello-friend-ng"
 enableRobotsTXT = true
+googleAnalytics = "UA-149595304-1"
 
 [params]
 dateform = "Jan 2, 2006"
