@@ -1,8 +1,9 @@
 ---
 title: "Joining Felt"
+description: "Why I decided to join Felt and my personal framework to evaluate companies."
 date: "2021-08-05"
 draft: false
-description: "Why I decided to join Felt and my personal framework to evaluate companies."
+cover: img/analuisa-gamboa-0ohjyDUIUq0-unsplash.jpg
 tags:
   - personal
   - career
