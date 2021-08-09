@@ -32,19 +32,19 @@ A majority of us are deficient in vitamin D, especially those of us that spend q
 
 ### Vitamin E
 
-Dr. Patrick mentions that 80% of children are below the average requirement for vitamin E. Nuts such as almonds are really rich in vitamin E, as well as olive oil, and fatty fish. For younger babies, consuming nuts can be challenging and even a suffocation hazard, depending on their age and how well they've learned to chew solid food. For that reason, nut butters are a great alternative that's safe and easy. Another alternative is to pound the nuts into tiny pieces or even into a fine powder. Obviously, be aware that some children may have nut allergies.
+Dr. Patrick mentions that 80% of children are below the average requirement for vitamin E. Nuts such as almonds are really rich in vitamin E, as well as olive oil, fatty fish, and [others](https://www.healthline.com/nutrition/foods-high-in-vitamin-e). For younger babies, consuming nuts can be challenging and even a suffocation hazard, depending on their age and how well they've learned to chew solid food. For that reason, nut butters are a great alternative that's safe and easy. Another alternative is to pound the nuts into tiny pieces or even into a fine powder. Obviously, be aware that some children may have nut allergies.
 
 ### Magnesium
 
-Another micronutrient that many infants are deficient in is magnesium. Good sources include dark leafy greens (e.g. spinach), almonds, legumes (e.g. lima beans), oats, and avocados.
+Another micronutrient that many infants are deficient in is magnesium. [Good sources](https://www.healthline.com/nutrition/10-foods-high-in-magnesium) include dark leafy greens (e.g. spinach), almonds, legumes (e.g. lima beans), oats, and avocados.
 
 ### Potassium
 
-This is one of the big ones with less than 1% of toddlers meeting or exceeding the average intake. While the mighty banana is the first thing one thinks of when they hear "potassium", there are many foods that are high in potassium: skin-on baked potatoes, yogurt (also good source of calcium), avocados, pistachios, and lima beans.
+This is one of the big ones with less than 1% of toddlers meeting or exceeding the average intake. While the mighty banana is the first thing one thinks of when they hear "potassium", there are [many foods](https://www.healthline.com/nutrition/high-potassium-foods) that are high in potassium: skin-on baked potatoes, yogurt (also good source of calcium), avocados, pistachios, and lima beans.
 
 ### Fiber
 
-Similar to potassium, less than 1% of toddlers met or exceed the average intake of fiber. Legumes such as lima beans, lentils, and navy beans are both high in potassium and fiber (as well as magnesium). Other good sources are butternut squash (also high in vitamin A), pears and raspberries (and in general fruits and vegetables), and almonds.
+Similar to potassium, less than 1% of toddlers met or exceed the average intake of fiber. Legumes such as lima beans, lentils, and navy beans are both high in potassium and fiber (as well as magnesium). Other [good sources](https://www.healthline.com/nutrition/22-high-fiber-foods) are butternut squash (also high in vitamin A), pears and raspberries (and in general fruits and vegetables), and almonds.
 
 ### Fats
 
