@@ -9,3 +9,5 @@ hugo.linux
 
 .DS_Store
 content/_drafts/
+
+.vercel
