@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://alexloukissas.com"
 enableRobotsTXT = true
 googleAnalytics = "282009340"
 languageCode = "en-us"
