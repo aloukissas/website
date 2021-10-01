@@ -9,7 +9,7 @@ images:
 
 Hello there! I’m Alex, an Athenian 🇬🇷 living in Los Angeles.
 
-I’ve spent the last 10+ years in technology startups, both as an early hire and as a founder. I'm currently a Staff Software Engineer at [Felt](https://felt.com), building new a collaborative experience in an under-explored medium, with a deep focus on climate. Prior to Felt, I had a brief stint at [Whatnot](https://www.whatnot.com/), where I designed and built the backend that runs [real-time auctions](https://thinkingelixir.com/podcast-episodes/051-live-auctions-with-alex-loukissas/) at scale (thanks, Elixir 💜).
+I’ve spent the last 10+ years in technology startups, both as an early hire and as a founder. Most recently, I had a brief stint at [Whatnot](https://www.whatnot.com/), where I architected and implemented the backend that runs [real-time auctions](https://thinkingelixir.com/podcast-episodes/051-live-auctions-with-alex-loukissas/) at scale (thanks, Elixir 💜).
 
 I first got into startups in 2011 when I joined [Maginatics](https://web.archive.org/web/20140628160659/https://maginatics.com/), where I worked on an [distributed file system for the cloud](https://alexloukissas.com/#), which was [acquired by EMC](https://www.theregister.co.uk/2014/10/28/emc_buying_maginatics_and_spanning/) in 2014.
 
